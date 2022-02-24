@@ -1,4 +1,4 @@
-const todos = [
+const skills = [
   {text: 'Karate chop', done: false, _id: 125223},
   {text: 'Crane kick', done: true, _id: 127904},
   {text: 'Triangle choke', done: true, _id: 139608},
