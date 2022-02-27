@@ -5,7 +5,9 @@ const router = Router()
 /* GET users listing. */
 
 router.get('/', skillCtrl.index)
+router.get('/new', skillCtrl.new)
 router.get('/:id', skillCtrl.show)
+
 
 export {
   router
